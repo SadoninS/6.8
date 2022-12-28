@@ -1,0 +1,15 @@
+h2 {     
+    color: darkblue;
+    text-decoration: underline;
+    font-size: 2em;
+    cursor: help;
+}
+
+code {
+    font-size: 1.5em;
+    background-color: bisque;
+}
+
+p {
+    font-size: 1.2em;
+}
