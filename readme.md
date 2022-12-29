@@ -11,4 +11,4 @@
 - показана работа margin и padding
 - изменение стиля, размера и цвета шрифтов
 
-## Ссылка для проверки работы [тут](https://sadonins.github.io/5.11/pages/index.html)
+## Ссылка для проверки работы [тут](https://sadonins.github.io/6.8/)
