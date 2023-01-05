@@ -6,6 +6,7 @@
 //  Вариант №2 
 document.querySelector('#consoleLog').addEventListener('click', 
   (e) => {
+    console.log('Сообщение в консоли!')
     alert('Данный метод выводит сообщение в консоль');
 })
 
